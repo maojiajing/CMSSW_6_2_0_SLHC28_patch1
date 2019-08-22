@@ -1,0 +1,12 @@
+brilcalc lumi -u /nb -b "STABLE BEAMS" --normtag /cvmfs/cms-bril.cern.ch/cms-lumi-pog/Normtags/normtag_BRIL.json -i my.json
+
+brilcalc lumi --byls -u 1e33/cm2s -b "STABLE BEAMS" --normtag /cvmfs/cms-bril.cern.ch/cms-lumi-pog/Normtags/normtag_BRIL.json -i my.json
+
+### FORMULAS ###
+L_{inst} [e33 cm^-2 s^-1] = L_{int} [/nb] / ( #LS * 23,31 )
+
+L_{inst} [e33 cm^-2 s^-1] = Rate [Hz] / sigma [nb]
+
+L_{int} [/nb] = L_{inst} [e33 cm^-2 s^-1] * #LS * 23,31 [s]
+
+1e33 cm^-2 s^-1 = 1 Hz/nb

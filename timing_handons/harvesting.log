@@ -1,0 +1,86 @@
+27-Oct-2017 16:10:38 CEST  Initiating request to open file file:DQMIO.root
+27-Oct-2017 16:10:39 CEST  Successfully opened file file:DQMIO.root
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endLumi  27-Oct-2017 16:10:42 CEST Run: 304777 Lumi: 307
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:42 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:42 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:42 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:42 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:43 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:43 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:43 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:43 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:43 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:fastTimerServiceClient@endJob 27-Oct-2017 16:10:43 CEST  PostGlobalEndRun
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 FastTimerServiceClie -w FastTimerService                      10       10
+    2 FastTimerServiceClie -w FastTimerService                      10       10
+    3 fileAction           -s AfterModBeginStr                       2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 FastTimerServiceClient PostGlobalEndRun PostGlobalEndRun PostGlobalEndRun
+    2 FastTimerServiceClient Run: 304777 Lumi Run: 304777 Lumi Run: 304777 Lumi
+    3 fileAction           BeforeEvents     BeforeEvents     
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                20                  20
+System                  2                   2
+
+dropped waiting message count 0
+27-Oct-2017 16:10:44 CEST  Closed file file:DQMIO.root
